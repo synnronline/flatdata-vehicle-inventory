@@ -16,8 +16,8 @@
     "total_msrp": "34641.0",
     "availability_date": null,
     "total_packages": 9,
-    "packages": "Mudguards [installed_msrp], Truck Bed D-Rings [installed_msrp], Alloy Wheel Locks [installed_msrp], 50 State Emissions, All-Weather Floor Liners and Door Sill Protectors [installed_msrp], Bed Mat [installed_msrp], Bed Lighting Kit  [installed_msrp], Spare Tire Lock [installed_msrp], Exhaust Tip (Chrome) [installed_msrp]",
-    "created_at": "2021-09-03 11:28:25"
+    "packages": "Bed Mat [installed_msrp], Bed Lighting Kit  [installed_msrp], Mudguards [installed_msrp], Spare Tire Lock [installed_msrp], Truck Bed D-Rings [installed_msrp], All-Weather Floor Liners and Door Sill Protectors [installed_msrp], Alloy Wheel Locks [installed_msrp], Exhaust Tip (Chrome) [installed_msrp], 50 State Emissions",
+    "created_at": "2021-09-04 11:28:02"
   },
   {
     "dealer": "02036",
@@ -36,8 +36,8 @@
     "total_msrp": "35405.0",
     "availability_date": null,
     "total_packages": 8,
-    "packages": "All-Weather Floor Liners and Door Sill Protectors [installed_msrp], Predator Tube Steps [installed_msrp], Bed Lighting Kit  [installed_msrp], Mudguards [installed_msrp], Color Keyed Rear Bumper, SX Package, Exhaust Tip (Chrome) [installed_msrp], 50 State Emissions",
-    "created_at": "2021-09-03 11:28:25"
+    "packages": "Bed Lighting Kit  [installed_msrp], Exhaust Tip (Chrome) [installed_msrp], All-Weather Floor Liners and Door Sill Protectors [installed_msrp], 50 State Emissions, Predator Tube Steps [installed_msrp], Mudguards [installed_msrp], Color Keyed Rear Bumper, SX Package",
+    "created_at": "2021-09-04 11:28:02"
   },
   {
     "dealer": "02036",
@@ -56,8 +56,8 @@
     "total_msrp": "35709.0",
     "availability_date": null,
     "total_packages": 4,
-    "packages": "50 State Emissions, All-Weather Floor Liners & Door Sill Protectors[installed_msrp], Deck rail system with four adjustable tie-down cleats, SR Work Truck Package",
-    "created_at": "2021-09-03 11:28:25"
+    "packages": "50 State Emissions, SR Work Truck Package, Deck rail system with four adjustable tie-down cleats, All-Weather Floor Liners & Door Sill Protectors[installed_msrp]",
+    "created_at": "2021-09-04 11:28:02"
   },
   {
     "dealer": "02036",
@@ -76,8 +76,8 @@
     "total_msrp": "35984.0",
     "availability_date": null,
     "total_packages": 3,
-    "packages": "All-Weather Floor Liners & Door Sill Protectors[installed_msrp], 50 State Emissions, Deck rail system with four adjustable tie-down cleats",
-    "created_at": "2021-09-03 11:28:25"
+    "packages": "50 State Emissions, All-Weather Floor Liners & Door Sill Protectors[installed_msrp], Deck rail system with four adjustable tie-down cleats",
+    "created_at": "2021-09-04 11:28:02"
   },
   {
     "dealer": "02036",
@@ -96,8 +96,28 @@
     "total_msrp": "36231.0",
     "availability_date": null,
     "total_packages": 10,
-    "packages": "Exhaust Tip (Chrome) [installed_msrp], Spare Tire Lock [installed_msrp], Mudguards [installed_msrp], All-Weather Floor Liners and Door Sill Protectors [installed_msrp], Truck Bed D-Rings [installed_msrp], Alloy Wheel Locks [installed_msrp], 16-In. Black Alloy Wheel, Bed Lighting Kit  [installed_msrp], 50 State Emissions, SR5 Dynamic Navigation Package",
-    "created_at": "2021-09-03 11:28:25"
+    "packages": "Mudguards [installed_msrp], Alloy Wheel Locks [installed_msrp], All-Weather Floor Liners and Door Sill Protectors [installed_msrp], SR5 Dynamic Navigation Package, Bed Lighting Kit  [installed_msrp], 16-In. Black Alloy Wheel, 50 State Emissions, Spare Tire Lock [installed_msrp], Exhaust Tip (Chrome) [installed_msrp], Truck Bed D-Rings [installed_msrp]",
+    "created_at": "2021-09-04 11:28:02"
+  },
+  {
+    "dealer": "02036",
+    "vin": "5TFAZ5CN3MX117180",
+    "year": "2021",
+    "vehicle": "tacoma",
+    "model": "SR5",
+    "enginge": "3.5L V6 Engine",
+    "transmission": "6-Speed Automatic Transmission",
+    "drivetrain": "2WD",
+    "cab": "Double Cab",
+    "bed": "5-ft. Bed",
+    "color": "Silver Sky Metallic",
+    "interior": "SR5 Fabric In Cement Gray",
+    "base_msrp": "32480",
+    "total_msrp": "36351.0",
+    "availability_date": null,
+    "total_packages": 11,
+    "packages": "Alloy Wheel Locks [installed_msrp], 16-In. Black Alloy Wheel, SR5 Dynamic Navigation Package, Mudguards [installed_msrp], All-Weather Floor Liners and Door Sill Protectors [installed_msrp], Truck Bed D-Rings [installed_msrp], Bed Lighting Kit  [installed_msrp], Spare Tire Lock [installed_msrp], 50 State Emissions, Exhaust Tip (Chrome) [installed_msrp], Bed Mat [installed_msrp]",
+    "created_at": "2021-09-04 11:28:02"
   },
   {
     "dealer": "02036",
@@ -116,8 +136,28 @@
     "total_msrp": "36837.0",
     "availability_date": null,
     "total_packages": 10,
-    "packages": "TRD Premium Sport Package, Technology Package, Mudguards [installed_msrp], Alloy Wheel Locks [installed_msrp], 50 State Emissions, LED Headlights and Fog Lights, All-Weather Floor Liners and Door Sill Protectors [installed_msrp], Black Out Package [installed_msrp], Bed Mat [installed_msrp], Spare Tire Lock [installed_msrp]",
-    "created_at": "2021-09-03 11:28:25"
+    "packages": "Spare Tire Lock [installed_msrp], TRD Premium Sport Package, LED Headlights and Fog Lights, All-Weather Floor Liners and Door Sill Protectors [installed_msrp], 50 State Emissions, Technology Package, Alloy Wheel Locks [installed_msrp], Bed Mat [installed_msrp], Black Out Package [installed_msrp], Mudguards [installed_msrp]",
+    "created_at": "2021-09-04 11:28:02"
+  },
+  {
+    "dealer": "02036",
+    "vin": "3TMBZ5DN5MM032141",
+    "year": "2021",
+    "vehicle": "tacoma",
+    "model": "trdsport",
+    "enginge": "3.5L V6 Engine",
+    "transmission": "6-Speed Automatic Transmission",
+    "drivetrain": "2WD",
+    "cab": "Double Cab",
+    "bed": "6-ft. Bed",
+    "color": "Barcelona Red Metallic",
+    "interior": "TRD Sport Fabric In Cement/Black",
+    "base_msrp": "35065",
+    "total_msrp": "37906.0",
+    "availability_date": null,
+    "total_packages": 9,
+    "packages": "50 State Emissions, Technology Package, Remote Tailgate Lock  [parts_only_msrp], Bed Lighting Kit  [installed_msrp], Preferred Owner's Portfolio, LED Daytime Running Lights and Fog Lights, Blackout Emblem Overlays [installed_msrp], TRD Sport Extra Value Package, All-Weather Floor Liners and Door Sill Protectors [installed_msrp]",
+    "created_at": "2021-09-04 11:28:02"
   },
   {
     "dealer": "02036",
@@ -136,8 +176,88 @@
     "total_msrp": "38700.0",
     "availability_date": null,
     "total_packages": 12,
-    "packages": "Spare Tire Lock [installed_msrp], Bed Lighting Kit  [installed_msrp], Alloy Wheel Locks [installed_msrp], Bed Mat [installed_msrp], TRD Sport Extra Value Package, Technology Package, All-Weather Floor Liners and Door Sill Protectors [installed_msrp], LED Daytime Running Lights and Fog Lights, Mudguards [installed_msrp], Exhaust Tip (Chrome) [installed_msrp], Soft Tonneau Cover [installed_msrp], 50 State Emissions",
-    "created_at": "2021-09-03 11:28:25"
+    "packages": "Alloy Wheel Locks [installed_msrp], Bed Lighting Kit  [installed_msrp], All-Weather Floor Liners and Door Sill Protectors [installed_msrp], TRD Sport Extra Value Package, Mudguards [installed_msrp], Spare Tire Lock [installed_msrp], Technology Package, 50 State Emissions, Bed Mat [installed_msrp], Soft Tonneau Cover [installed_msrp], Exhaust Tip (Chrome) [installed_msrp], LED Daytime Running Lights and Fog Lights",
+    "created_at": "2021-09-04 11:28:02"
+  },
+  {
+    "dealer": "02036",
+    "vin": "3TMCZ5AN0MM449594",
+    "year": "2021",
+    "vehicle": "tacoma",
+    "model": "trdoffroad",
+    "enginge": "3.5L V6 Engine",
+    "transmission": "6-Speed Automatic Transmission",
+    "drivetrain": "4WD",
+    "cab": "Double Cab",
+    "bed": "5-ft. Bed",
+    "color": "Magnetic Gray Metallic",
+    "interior": "TRD Off-Road Fabric In Cement/Black",
+    "base_msrp": "37530",
+    "total_msrp": "39571.0",
+    "availability_date": null,
+    "total_packages": 13,
+    "packages": "All-Weather Floor Liners and Door Sill Protectors [installed_msrp], Mudguards [installed_msrp], Alloy Wheel Locks [installed_msrp], Chrome Bumper, Power Color Turn Mirror, Entune Audio Plus, Exhaust Tip (Chrome) [installed_msrp], Truck Bed D-Rings [installed_msrp], Spare Tire Lock [installed_msrp], TRD Off-Road Package, LED Daytime Running Lights and Fog Lights, Bed Lighting Kit  [installed_msrp], 50 State Emissions",
+    "created_at": "2021-09-04 11:28:02"
+  },
+  {
+    "dealer": "02036",
+    "vin": "3TMCZ5AN5MM448859",
+    "year": "2021",
+    "vehicle": "tacoma",
+    "model": "trdoffroad",
+    "enginge": "3.5L V6 Engine",
+    "transmission": "6-Speed Automatic Transmission",
+    "drivetrain": "4WD",
+    "cab": "Double Cab",
+    "bed": "5-ft. Bed",
+    "color": "Super White",
+    "interior": "TRD Off-Road Fabric In Cement/Black",
+    "base_msrp": "37530",
+    "total_msrp": "40342.0",
+    "availability_date": null,
+    "total_packages": 12,
+    "packages": "TRD Off-Road Package, Bed Mat [installed_msrp], Exhaust Tip (Chrome) [installed_msrp], Truck Bed D-Rings [installed_msrp], All-Weather Floor Liners and Door Sill Protectors [installed_msrp], Alloy Wheel Locks [installed_msrp], LED Daytime Running Lights and Fog Lights, Mudguards [installed_msrp], Spare Tire Lock [installed_msrp], Entune Audio Plus, 50 State Emissions, Technology Package",
+    "created_at": "2021-09-04 11:28:02"
+  },
+  {
+    "dealer": "02036",
+    "vin": "3TMCZ5AN9MM449383",
+    "year": "2021",
+    "vehicle": "tacoma",
+    "model": "trdoffroad",
+    "enginge": "3.5L V6 Engine",
+    "transmission": "6-Speed Automatic Transmission",
+    "drivetrain": "4WD",
+    "cab": "Double Cab",
+    "bed": "5-ft. Bed",
+    "color": "Magnetic Gray Metallic",
+    "interior": "TRD Off-Road Fabric In Cement/Black",
+    "base_msrp": "37530",
+    "total_msrp": "40707.0",
+    "availability_date": null,
+    "total_packages": 11,
+    "packages": "Exhaust Tip (Chrome) [installed_msrp], Alloy Wheel Locks [installed_msrp], 50 State Emissions, Mudguards [installed_msrp], LED Headlights and Fog Lights, Truck Bed D-Rings [installed_msrp], Technology Package, Spare Tire Lock [installed_msrp], All-Weather Floor Liners and Door Sill Protectors [installed_msrp], TRD Off-Road Package, Entune Audio Plus",
+    "created_at": "2021-09-04 11:28:02"
+  },
+  {
+    "dealer": "02036",
+    "vin": "3TMCZ5AN6MM449549",
+    "year": "2021",
+    "vehicle": "tacoma",
+    "model": "trdoffroad",
+    "enginge": "3.5L V6 Engine",
+    "transmission": "6-Speed Automatic Transmission",
+    "drivetrain": "4WD",
+    "cab": "Double Cab",
+    "bed": "5-ft. Bed",
+    "color": "Barcelona Red Metallic",
+    "interior": "TRD Off-Road Fabric In Cement/Black",
+    "base_msrp": "37530",
+    "total_msrp": "40827.0",
+    "availability_date": null,
+    "total_packages": 12,
+    "packages": "Alloy Wheel Locks [installed_msrp], LED Headlights and Fog Lights, Spare Tire Lock [installed_msrp], Technology Package, Bed Mat [installed_msrp], Truck Bed D-Rings [installed_msrp], 50 State Emissions, Exhaust Tip (Chrome) [installed_msrp], All-Weather Floor Liners and Door Sill Protectors [installed_msrp], Mudguards [installed_msrp], TRD Off-Road Package, Entune Audio Plus",
+    "created_at": "2021-09-04 11:28:02"
   },
   {
     "dealer": "02036",
@@ -156,8 +276,8 @@
     "total_msrp": "40870.0",
     "availability_date": null,
     "total_packages": 13,
-    "packages": "LED Daytime Running Lights and Fog Lights, 50 State Emissions, Truck Bed D-Rings [installed_msrp], Mudguards [installed_msrp], All-Weather Floor Liners and Door Sill Protectors [installed_msrp], Entune Audio Plus, TRD Off-Road Package, Technology Package, Exhaust Tip (Chrome) [installed_msrp], TRD Front Skid Plate [installed_msrp], Spare Tire Lock [installed_msrp], Bed Lighting Kit  [installed_msrp], Alloy Wheel Locks [installed_msrp]",
-    "created_at": "2021-09-03 11:28:25"
+    "packages": "Truck Bed D-Rings [installed_msrp], TRD Off-Road Package, Exhaust Tip (Chrome) [installed_msrp], 50 State Emissions, Alloy Wheel Locks [installed_msrp], Bed Lighting Kit  [installed_msrp], All-Weather Floor Liners and Door Sill Protectors [installed_msrp], Mudguards [installed_msrp], LED Daytime Running Lights and Fog Lights, Spare Tire Lock [installed_msrp], TRD Front Skid Plate [installed_msrp], Entune Audio Plus, Technology Package",
+    "created_at": "2021-09-04 11:28:02"
   },
   {
     "dealer": "02036",
@@ -176,8 +296,48 @@
     "total_msrp": "40990.0",
     "availability_date": null,
     "total_packages": 16,
-    "packages": "Truck Bed D-Rings [installed_msrp], Mudguards [installed_msrp], LED Daytime Running Lights and Fog Lights, Bed Lighting Kit  [installed_msrp], All-Weather Floor Liners and Door Sill Protectors [installed_msrp], Chrome Bumper, Tonneau Cover, Exhaust Tip (Chrome) [installed_msrp], TRD Off-Road Package, Spare Tire Lock [installed_msrp], Entune Audio Plus, 50 State Emissions, Bed Mat [installed_msrp], Power Color Turn Mirror, Predator Tube Steps [installed_msrp], Alloy Wheel Locks [installed_msrp]",
-    "created_at": "2021-09-03 11:28:25"
+    "packages": "Power Color Turn Mirror, Bed Mat [installed_msrp], Alloy Wheel Locks [installed_msrp], TRD Off-Road Package, Exhaust Tip (Chrome) [installed_msrp], Tonneau Cover, Bed Lighting Kit  [installed_msrp], Truck Bed D-Rings [installed_msrp], 50 State Emissions, Entune Audio Plus, Chrome Bumper, Spare Tire Lock [installed_msrp], Mudguards [installed_msrp], Predator Tube Steps [installed_msrp], All-Weather Floor Liners and Door Sill Protectors [installed_msrp], LED Daytime Running Lights and Fog Lights",
+    "created_at": "2021-09-04 11:28:02"
+  },
+  {
+    "dealer": "02036",
+    "vin": "5TFEY5F17MX292996",
+    "year": "2021",
+    "vehicle": "tundra",
+    "model": "SR5",
+    "enginge": "5.7L V8 Engine",
+    "transmission": "6-Speed automatic transmission",
+    "drivetrain": "2WD",
+    "cab": "CrewMax",
+    "bed": "5.5-ft. Short Bed",
+    "color": "Silver Sky Metallic",
+    "interior": "Graphite Fabric",
+    "base_msrp": "38320",
+    "total_msrp": "41553.0",
+    "availability_date": null,
+    "total_packages": 5,
+    "packages": "SR5 Upgrade Package, Remote Tailgate Lock[installed_msrp], 50 State Emissions, All-Weather Floor Liners & Door Sill Protectors[installed_msrp], Center Console Tray[installed_msrp]",
+    "created_at": "2021-09-04 11:28:02"
+  },
+  {
+    "dealer": "02036",
+    "vin": "3TMCZ5AN9MM448962",
+    "year": "2021",
+    "vehicle": "tacoma",
+    "model": "trdoffroad",
+    "enginge": "3.5L V6 Engine",
+    "transmission": "6-Speed Automatic Transmission",
+    "drivetrain": "4WD",
+    "cab": "Double Cab",
+    "bed": "5-ft. Bed",
+    "color": "Super White",
+    "interior": "TRD Off-Road Fabric In Cement/Black",
+    "base_msrp": "37530",
+    "total_msrp": "41625.0",
+    "availability_date": null,
+    "total_packages": 14,
+    "packages": "Bed Lighting Kit  [installed_msrp], Entune Audio Plus, 50 State Emissions, All-Weather Floor Liners and Door Sill Protectors [installed_msrp], Predator Tube Steps [installed_msrp], Technology Package, Exhaust Tip (Chrome) [installed_msrp], Alloy Wheel Locks [installed_msrp], Truck Bed D-Rings [installed_msrp], Mudguards [installed_msrp], TRD Off-Road Package, Bed Mat [installed_msrp], Spare Tire Lock [installed_msrp], LED Headlights and Fog Lights",
+    "created_at": "2021-09-04 11:28:02"
   },
   {
     "dealer": "48066",
@@ -196,8 +356,8 @@
     "total_msrp": "48318.0",
     "availability_date": null,
     "total_packages": 5,
-    "packages": "High Performance LED Fog Lights (Black) [parts_only_msrp], 50 State Emissions, All-Weather Floor Liners & Cargo Tray Package [installed_msrp], Keep It Wild Savings [keep_it_wild_21], Limited Grade",
-    "created_at": "2021-09-03 11:28:25"
+    "packages": "Keep It Wild Savings [keep_it_wild_21], 50 State Emissions, High Performance LED Fog Lights (Black) [parts_only_msrp], Limited Grade, All-Weather Floor Liners & Cargo Tray Package [installed_msrp]",
+    "created_at": "2021-09-04 11:28:03"
   },
   {
     "dealer": "48027",
@@ -216,8 +376,8 @@
     "total_msrp": "35584.0",
     "availability_date": null,
     "total_packages": 3,
-    "packages": "50 State Emissions, All-Weather Floor Liners & Door Sill Protectors[installed_msrp], SR Work Truck Package",
-    "created_at": "2021-09-03 11:28:26"
+    "packages": "SR Work Truck Package, 50 State Emissions, All-Weather Floor Liners & Door Sill Protectors[installed_msrp]",
+    "created_at": "2021-09-04 11:28:03"
   },
   {
     "dealer": "48027",
@@ -236,8 +396,8 @@
     "total_msrp": "37549.0",
     "availability_date": null,
     "total_packages": 5,
-    "packages": "Audio Plus, All-Weather Floor Liners & Door Sill Protectors[installed_msrp], SR5 Package, 50 State Emissions, Preferred Owner's Portfolio",
-    "created_at": "2021-09-03 11:28:26"
+    "packages": "SR5 Package, All-Weather Floor Liners & Door Sill Protectors[installed_msrp], 50 State Emissions, Audio Plus, Preferred Owner's Portfolio",
+    "created_at": "2021-09-04 11:28:03"
   },
   {
     "dealer": "48027",
@@ -256,27 +416,7 @@
     "total_msrp": "38953.0",
     "availability_date": null,
     "total_packages": 6,
-    "packages": "50 State Emissions, Power Color Turn Mirror, All-Weather Floor Liners and Door Sill Protectors [installed_msrp], LED Daytime Running Lights and Fog Lights, TRD Sport Extra Value Package, Entune Audio Plus",
-    "created_at": "2021-09-03 11:28:26"
-  },
-  {
-    "dealer": "48027",
-    "vin": "5TFDY5F13MX036978",
-    "year": "2021",
-    "vehicle": "tundra",
-    "model": "SR5",
-    "enginge": "5.7L V8 Engine",
-    "transmission": "6-Speed automatic transmission",
-    "drivetrain": "4WD",
-    "cab": "CrewMax",
-    "bed": "5.5-ft. Short Bed",
-    "color": "Super White",
-    "interior": "Black Fabric",
-    "base_msrp": "41370",
-    "total_msrp": "49468.0",
-    "availability_date": null,
-    "total_packages": 7,
-    "packages": "All-Weather Floor Liners & Door Sill Protectors[installed_msrp], TRD Sport Package Plus, Preferred Owner's Portfolio, Spray-On Bedliner[installed_msrp], 50 State Emissions, TRD Sport Convenience Package, SR5 Upgrade Package",
-    "created_at": "2021-09-03 11:28:26"
+    "packages": "50 State Emissions, Power Color Turn Mirror, All-Weather Floor Liners and Door Sill Protectors [installed_msrp], Entune Audio Plus, LED Daytime Running Lights and Fog Lights, TRD Sport Extra Value Package",
+    "created_at": "2021-09-04 11:28:03"
   }
 ]
