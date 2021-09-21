@@ -1,26 +1,6 @@
 [
   {
     "dealer": "02036",
-    "vin": "3TMAZ5CN9MM159228",
-    "year": "2021",
-    "vehicle": "tacoma",
-    "model": "SR5",
-    "enginge": "3.5L V6 Engine",
-    "transmission": "6-Speed Automatic Transmission",
-    "drivetrain": "2WD",
-    "cab": "Double Cab",
-    "bed": "5-ft. Bed",
-    "color": "Super White",
-    "interior": "SR5 Fabric In Cement Gray",
-    "base_msrp": "32480",
-    "total_msrp": "34492.0",
-    "availability_date": null,
-    "total_packages": 8,
-    "packages": "Alloy Wheel Locks [installed_msrp], Bed Mat [installed_msrp], Mudguards [installed_msrp], All-Weather Floor Liners and Door Sill Protectors [installed_msrp], 50 State Emissions, Truck Bed D-Rings [installed_msrp], Exhaust Tip (Chrome) [installed_msrp], Spare Tire Lock [installed_msrp]",
-    "created_at": "2021-09-20 11:28:28"
-  },
-  {
-    "dealer": "02036",
     "vin": "5TFRY5F1XMX293268",
     "year": "2021",
     "vehicle": "tundra",
@@ -37,7 +17,7 @@
     "availability_date": null,
     "total_packages": 3,
     "packages": "50 State Emissions, All-Weather Floor Liners & Door Sill Protectors[installed_msrp], SR Work Truck Package",
-    "created_at": "2021-09-20 11:28:28"
+    "created_at": "2021-09-21 11:28:27"
   },
   {
     "dealer": "02036",
@@ -56,48 +36,8 @@
     "total_msrp": "35984.0",
     "availability_date": null,
     "total_packages": 3,
-    "packages": "50 State Emissions, All-Weather Floor Liners & Door Sill Protectors[installed_msrp], Deck rail system with four adjustable tie-down cleats",
-    "created_at": "2021-09-20 11:28:28"
-  },
-  {
-    "dealer": "02036",
-    "vin": "5TFAZ5CN6MX118212",
-    "year": "2021",
-    "vehicle": "tacoma",
-    "model": "SR5",
-    "enginge": "3.5L V6 Engine",
-    "transmission": "6-Speed Automatic Transmission",
-    "drivetrain": "2WD",
-    "cab": "Double Cab",
-    "bed": "5-ft. Bed",
-    "color": "Cement",
-    "interior": "SR5 Fabric In Cement Gray",
-    "base_msrp": "32480",
-    "total_msrp": "36082.0",
-    "availability_date": null,
-    "total_packages": 9,
-    "packages": "SR5 Dynamic Navigation Package, Mudguards [installed_msrp], 16-In. Black Alloy Wheel, Exhaust Tip (Chrome) [installed_msrp], Spare Tire Lock [installed_msrp], Alloy Wheel Locks [installed_msrp], Truck Bed D-Rings [installed_msrp], 50 State Emissions, All-Weather Floor Liners and Door Sill Protectors [installed_msrp]",
-    "created_at": "2021-09-20 11:28:28"
-  },
-  {
-    "dealer": "02036",
-    "vin": "5TFRY5F16MX294451",
-    "year": "2021",
-    "vehicle": "tundra",
-    "model": "SR5",
-    "enginge": "5.7L V8 Engine",
-    "transmission": "6-Speed automatic transmission",
-    "drivetrain": "2WD",
-    "cab": "Double Cab",
-    "bed": "6.5-ft. Standard Bed",
-    "color": "Cement",
-    "interior": "Graphite Fabric",
-    "base_msrp": "35715",
-    "total_msrp": "39664.0",
-    "availability_date": null,
-    "total_packages": 7,
-    "packages": "Audio Plus, 50 State Emissions, Convenience Extra Value Package, 18-in. 5-spoke alloy wheels with P275/65R18 tires, SR5 Package, Spare Tire Lock[installed_msrp], Remote Tailgate Lock[installed_msrp]",
-    "created_at": "2021-09-20 11:28:28"
+    "packages": "All-Weather Floor Liners & Door Sill Protectors[installed_msrp], Deck rail system with four adjustable tie-down cleats, 50 State Emissions",
+    "created_at": "2021-09-21 11:28:27"
   },
   {
     "dealer": "02036",
@@ -116,28 +56,8 @@
     "total_msrp": "39664.0",
     "availability_date": null,
     "total_packages": 7,
-    "packages": "Audio Plus, Remote Tailgate Lock[installed_msrp], 18-in. 5-spoke alloy wheels with P275/65R18 tires, 50 State Emissions, SR5 Package, Spare Tire Lock[installed_msrp], Convenience Extra Value Package",
-    "created_at": "2021-09-20 11:28:28"
-  },
-  {
-    "dealer": "02036",
-    "vin": "5TFRY5F19MX293715",
-    "year": "2021",
-    "vehicle": "tundra",
-    "model": "SR5",
-    "enginge": "5.7L V8 Engine",
-    "transmission": "6-Speed automatic transmission",
-    "drivetrain": "2WD",
-    "cab": "Double Cab",
-    "bed": "6.5-ft. Standard Bed",
-    "color": "Barcelona Red Metallic",
-    "interior": "Graphite Fabric",
-    "base_msrp": "35715",
-    "total_msrp": "39793.0",
-    "availability_date": null,
-    "total_packages": 6,
-    "packages": "Center Console Tray[installed_msrp], Audio Plus, 50 State Emissions, SX Package (Double Cab), All-Weather Floor Liners & Door Sill Protectors[installed_msrp], Remote Tailgate Lock[installed_msrp]",
-    "created_at": "2021-09-20 11:28:28"
+    "packages": "Spare Tire Lock[installed_msrp], SR5 Package, Convenience Extra Value Package, Audio Plus, Remote Tailgate Lock[installed_msrp], 50 State Emissions, 18-in. 5-spoke alloy wheels with P275/65R18 tires",
+    "created_at": "2021-09-21 11:28:27"
   },
   {
     "dealer": "02036",
@@ -156,12 +76,32 @@
     "total_msrp": "39883.0",
     "availability_date": null,
     "total_packages": 9,
-    "packages": "All-Weather Floor Liners & Door Sill Protectors[installed_msrp], Remote Tailgate Lock[installed_msrp], 50 State Emissions, SR5 Package, Convenience Extra Value Package, Audio Plus, Alloy Wheel Locks[installed_msrp], Spare Tire Lock[installed_msrp], 18-in. 5-spoke alloy wheels with P275/65R18 tires",
-    "created_at": "2021-09-20 11:28:28"
+    "packages": "18-in. 5-spoke alloy wheels with P275/65R18 tires, SR5 Package, Audio Plus, Alloy Wheel Locks[installed_msrp], All-Weather Floor Liners & Door Sill Protectors[installed_msrp], 50 State Emissions, Spare Tire Lock[installed_msrp], Remote Tailgate Lock[installed_msrp], Convenience Extra Value Package",
+    "created_at": "2021-09-21 11:28:27"
   },
   {
     "dealer": "02036",
-    "vin": "JTENU5JR3M5966707",
+    "vin": "JTEPU5JR7M5961647",
+    "year": "2021",
+    "vehicle": "4runner",
+    "model": "trdoffroad",
+    "enginge": "4.0L V6 Engine",
+    "transmission": "5-Speed Automatic Transmission",
+    "drivetrain": "Part-time 4WD",
+    "cab": null,
+    "bed": null,
+    "color": "Super White",
+    "interior": "TRD Off-Road Fabric in Black",
+    "base_msrp": "40730",
+    "total_msrp": "44046.0",
+    "availability_date": null,
+    "total_packages": 11,
+    "packages": "Keep It Wild Savings [keep_it_wild_21], Predator Tube Step [installed_msrp], High Performance LED Fog Lights (Black) [parts_only_msrp], Premium Audio, Off Road Package, All-Weather Floor Liners & Cargo Tray Package [installed_msrp], Dual Power Port/Quick Charge Cable Package [installed_msrp], 50 State Emissions, , Exhaust Tip - Chrome  [installed_msrp], Roof Rack Cross Bars [installed_msrp]",
+    "created_at": "2021-09-21 11:28:27"
+  },
+  {
+    "dealer": "02036",
+    "vin": "JTENU5JR2M5963281",
     "year": "2021",
     "vehicle": "4runner",
     "model": "SR5premium",
@@ -170,134 +110,14 @@
     "drivetrain": "Part-time 4WD",
     "cab": null,
     "bed": null,
-    "color": "Super White",
+    "color": "Barcelona Red Metallic",
     "interior": "SR5 SofTex® [softex] in Graphite",
     "base_msrp": "41700",
-    "total_msrp": "43077.0",
+    "total_msrp": "44306.0",
     "availability_date": null,
-    "total_packages": 8,
-    "packages": "SR5 Premium Package w/ Softex, High Performance LED Fog Lights (Black) [parts_only_msrp], All-Weather Floor Liners & Cargo Tray Package [installed_msrp], Dual Power Port/Quick Charge Cable Package [installed_msrp], 50 State Emissions, Exhaust Tip - Chrome  [installed_msrp], Roof Rack Cross Bars [installed_msrp], Keep It Wild Savings [keep_it_wild_21]",
-    "created_at": "2021-09-20 11:28:28"
-  },
-  {
-    "dealer": "02036",
-    "vin": "JTENU5JR2M5970425",
-    "year": "2021",
-    "vehicle": "4runner",
-    "model": "SR5premium",
-    "enginge": "4.0L V6 Engine",
-    "transmission": "5-Speed Automatic Transmission",
-    "drivetrain": "Part-time 4WD",
-    "cab": null,
-    "bed": null,
-    "color": "Super White",
-    "interior": "SR5 SofTex® [softex] in Sand Beige",
-    "base_msrp": "41700",
-    "total_msrp": "43339.0",
-    "availability_date": null,
-    "total_packages": 7,
-    "packages": "Moonroof, 50 State Emissions, All-Weather Floor Liners & Cargo Tray Package [installed_msrp], Exhaust Tip - Chrome  [installed_msrp], Roof Rack Cross Bars [installed_msrp], Keep It Wild Savings [keep_it_wild_21], SR5 Premium Package w/ Softex",
-    "created_at": "2021-09-20 11:28:28"
-  },
-  {
-    "dealer": "02036",
-    "vin": "5TFDY5F17MX040368",
-    "year": "2021",
-    "vehicle": "tundra",
-    "model": "SR5",
-    "enginge": "5.7L V8 Engine",
-    "transmission": "6-Speed automatic transmission",
-    "drivetrain": "4WD",
-    "cab": "CrewMax",
-    "bed": "5.5-ft. Short Bed",
-    "color": "Super White",
-    "interior": "Black Fabric",
-    "base_msrp": "41370",
-    "total_msrp": "45763.0",
-    "availability_date": null,
-    "total_packages": 8,
-    "packages": "Remote Tailgate Lock[installed_msrp], Deck rail system with four adjustable tie-down cleats, Alloy Wheel Locks[installed_msrp], Spare Tire Lock[installed_msrp], 50 State Emissions, Convenience Extra Value Package, 18-in. 5-spoke alloy wheels with P275/65R18 tires, All-Weather Floor Liners & Door Sill Protectors[installed_msrp]",
-    "created_at": "2021-09-20 11:28:28"
-  },
-  {
-    "dealer": "02036",
-    "vin": "JTEHU5JR4M5961593",
-    "year": "2021",
-    "vehicle": "4runner",
-    "model": "venture",
-    "enginge": "4.0L V6 Engine",
-    "transmission": "5-Speed Automatic Transmission",
-    "drivetrain": "Part-time 4WD",
-    "cab": null,
-    "bed": null,
-    "color": "Super White",
-    "interior": "TRD Off-Road SofTex® [softex] in Black",
-    "base_msrp": "44895",
-    "total_msrp": "47007.0",
-    "availability_date": null,
-    "total_packages": 8,
-    "packages": "50 State Emissions, Overland Option, Keep It Wild Savings [keep_it_wild_21], High Performance LED Fog Lights (Black) [parts_only_msrp], Dual Power Port/Quick Charge Cable Package [installed_msrp], Moonroof, Venture Package, Predator Tube Step [installed_msrp]",
-    "created_at": "2021-09-20 11:28:28"
-  },
-  {
-    "dealer": "02036",
-    "vin": "JTEKU5JR3M5967746",
-    "year": "2021",
-    "vehicle": "4runner",
-    "model": "limited",
-    "enginge": "4.0L V6 Engine",
-    "transmission": "5-Speed Automatic Transmission",
-    "drivetrain": "Full-time 4WD",
-    "cab": null,
-    "bed": null,
-    "color": "Blizzard Pearl [extra_cost_color]",
-    "interior": "Limited Leather in Black",
-    "base_msrp": "47705",
-    "total_msrp": "49257.0",
-    "availability_date": null,
-    "total_packages": 9,
-    "packages": "All-Weather Floor Liners & Cargo Tray Package [installed_msrp], 50 State Emissions, Roof Rack Cross Bars [installed_msrp], Keep It Wild Savings [keep_it_wild_21], Extra Cost Color, Dual Power Port/Quick Charge Cable Package [installed_msrp], Exhaust Tip - Chrome  [installed_msrp], High Performance LED Fog Lights (Black) [parts_only_msrp], Limited Grade",
-    "created_at": "2021-09-20 11:28:28"
-  },
-  {
-    "dealer": "02036",
-    "vin": "JTEKU5JR3M5967620",
-    "year": "2021",
-    "vehicle": "4runner",
-    "model": "limited",
-    "enginge": "4.0L V6 Engine",
-    "transmission": "5-Speed Automatic Transmission",
-    "drivetrain": "Full-time 4WD",
-    "cab": null,
-    "bed": null,
-    "color": "Classic Silver Metallic",
-    "interior": "Limited Leather in Black",
-    "base_msrp": "47705",
-    "total_msrp": "49882.0",
-    "availability_date": null,
-    "total_packages": 7,
-    "packages": "50 State Emissions, All-Weather Floor Liners & Cargo Tray Package [installed_msrp], Dual Power Port/Quick Charge Cable Package [installed_msrp], Keep It Wild Savings [keep_it_wild_21], Third Row Seating - Leather, Mudguards [installed_msrp], Limited Grade",
-    "created_at": "2021-09-20 11:28:28"
-  },
-  {
-    "dealer": "02036",
-    "vin": "5TFAY5F17MX040342",
-    "year": "2021",
-    "vehicle": "tundra",
-    "model": "platinum",
-    "enginge": "5.7L V8 Engine",
-    "transmission": "6-Speed automatic transmission",
-    "drivetrain": "4WD",
-    "cab": "CrewMax",
-    "bed": "5.5-ft. Short Bed",
-    "color": "Magnetic Gray Metallic",
-    "interior": "Premium Black Leather",
-    "base_msrp": "52295",
-    "total_msrp": "55419.0",
-    "availability_date": null,
-    "total_packages": 4,
-    "packages": "Preferred Owner's Portfolio, Spray-On Bedliner[installed_msrp], 50 State Emissions, Power tilt/slide moonroof with sliding sunshade",
-    "created_at": "2021-09-20 11:28:28"
+    "total_packages": 10,
+    "packages": "Dual Power Port/Quick Charge Cable Package [installed_msrp], Keep It Wild Savings [keep_it_wild_21], Exhaust Tip - Chrome  [installed_msrp], All-Weather Floor Liners & Cargo Tray Package [installed_msrp], High Performance LED Fog Lights (Black) [parts_only_msrp], 50 State Emissions, Running Boards - Anodized Detail [installed_msrp], SR5 Premium Package w/ Softex, Roof Rack Cross Bars [installed_msrp], Moonroof",
+    "created_at": "2021-09-21 11:28:27"
   },
   {
     "dealer": "48066",
@@ -316,8 +136,8 @@
     "total_msrp": "37649.0",
     "availability_date": null,
     "total_packages": 4,
-    "packages": "Audio Plus, SR5 Package, 50 State Emissions, All-Weather Floor Liners & Door Sill Protectors[installed_msrp]",
-    "created_at": "2021-09-20 11:28:29"
+    "packages": "All-Weather Floor Liners & Door Sill Protectors[installed_msrp], 50 State Emissions, SR5 Package, Audio Plus",
+    "created_at": "2021-09-21 11:28:28"
   },
   {
     "dealer": "48066",
@@ -336,8 +156,8 @@
     "total_msrp": "43482.0",
     "availability_date": null,
     "total_packages": 6,
-    "packages": "All-Weather Floor Liners and Door Sill Protectors [installed_msrp], LED Headlights and Fog Lights, TRD Performance Exhaust System (Chrome)[installed_msrp], Advanced Technology Package, Premium Package (Double Cab M/T), 50 State Emissions",
-    "created_at": "2021-09-20 11:28:29"
+    "packages": "TRD Performance Exhaust System (Chrome)[installed_msrp], LED Headlights and Fog Lights, 50 State Emissions, All-Weather Floor Liners and Door Sill Protectors [installed_msrp], Advanced Technology Package, Premium Package (Double Cab M/T)",
+    "created_at": "2021-09-21 11:28:28"
   },
   {
     "dealer": "48066",
@@ -356,8 +176,8 @@
     "total_msrp": "47867.0",
     "availability_date": null,
     "total_packages": 6,
-    "packages": "Spray-On Bedliner[installed_msrp], 50 State Emissions, All-Weather Floor Liners & Door Sill Protectors[installed_msrp], Tailgate Insert Badge - Black[installed_msrp], SR5 Upgrade Package, TRD Off-Road Package (SR5 Grade) [off_roading_generic]",
-    "created_at": "2021-09-20 11:28:29"
+    "packages": "Spray-On Bedliner[installed_msrp], 50 State Emissions, TRD Off-Road Package (SR5 Grade) [off_roading_generic], All-Weather Floor Liners & Door Sill Protectors[installed_msrp], Tailgate Insert Badge - Black[installed_msrp], SR5 Upgrade Package",
+    "created_at": "2021-09-21 11:28:28"
   },
   {
     "dealer": "48066",
@@ -376,8 +196,8 @@
     "total_msrp": "48131.0",
     "availability_date": null,
     "total_packages": 6,
-    "packages": "Black Out Package, 50 State Emissions, All-Weather Floor Liners & Door Sill Protectors[installed_msrp], TRD Off-Road Package (SR5 Grade) [off_roading_generic], Spray-On Bedliner[installed_msrp], SR5 Upgrade Package",
-    "created_at": "2021-09-20 11:28:29"
+    "packages": "50 State Emissions, All-Weather Floor Liners & Door Sill Protectors[installed_msrp], Spray-On Bedliner[installed_msrp], TRD Off-Road Package (SR5 Grade) [off_roading_generic], Black Out Package, SR5 Upgrade Package",
+    "created_at": "2021-09-21 11:28:28"
   },
   {
     "dealer": "48066",
@@ -396,8 +216,8 @@
     "total_msrp": "48318.0",
     "availability_date": null,
     "total_packages": 5,
-    "packages": "Limited Grade, High Performance LED Fog Lights (Black) [parts_only_msrp], All-Weather Floor Liners & Cargo Tray Package [installed_msrp], 50 State Emissions, Keep It Wild Savings [keep_it_wild_21]",
-    "created_at": "2021-09-20 11:28:29"
+    "packages": "High Performance LED Fog Lights (Black) [parts_only_msrp], All-Weather Floor Liners & Cargo Tray Package [installed_msrp], Keep It Wild Savings [keep_it_wild_21], Limited Grade, 50 State Emissions",
+    "created_at": "2021-09-21 11:28:28"
   },
   {
     "dealer": "48027",
@@ -417,7 +237,7 @@
     "availability_date": null,
     "total_packages": 2,
     "packages": "All-Weather Floor Liners and Door Sill Protectors [installed_msrp], 50 State Emissions",
-    "created_at": "2021-09-20 11:28:29"
+    "created_at": "2021-09-21 11:28:28"
   },
   {
     "dealer": "48027",
@@ -436,8 +256,8 @@
     "total_msrp": "35584.0",
     "availability_date": null,
     "total_packages": 3,
-    "packages": "All-Weather Floor Liners & Door Sill Protectors[installed_msrp], 50 State Emissions, SR Work Truck Package",
-    "created_at": "2021-09-20 11:28:29"
+    "packages": "50 State Emissions, SR Work Truck Package, All-Weather Floor Liners & Door Sill Protectors[installed_msrp]",
+    "created_at": "2021-09-21 11:28:28"
   },
   {
     "dealer": "48027",
@@ -456,8 +276,8 @@
     "total_msrp": "37549.0",
     "availability_date": null,
     "total_packages": 5,
-    "packages": "All-Weather Floor Liners & Door Sill Protectors[installed_msrp], SR5 Package, 50 State Emissions, Audio Plus, Preferred Owner's Portfolio",
-    "created_at": "2021-09-20 11:28:29"
+    "packages": "Preferred Owner's Portfolio, Audio Plus, 50 State Emissions, All-Weather Floor Liners & Door Sill Protectors[installed_msrp], SR5 Package",
+    "created_at": "2021-09-21 11:28:28"
   },
   {
     "dealer": "48027",
@@ -476,8 +296,8 @@
     "total_msrp": "38177.0",
     "availability_date": null,
     "total_packages": 6,
-    "packages": "16-In. Black Alloy Wheel, 50 State Emissions, Mudguards [installed_msrp], Preferred Owner's Portfolio, All-Weather Floor Liners and Door Sill Protectors [installed_msrp], Technology Package",
-    "created_at": "2021-09-20 11:28:29"
+    "packages": "50 State Emissions, All-Weather Floor Liners and Door Sill Protectors [installed_msrp], Preferred Owner's Portfolio, 16-In. Black Alloy Wheel, Mudguards [installed_msrp], Technology Package",
+    "created_at": "2021-09-21 11:28:28"
   },
   {
     "dealer": "48027",
@@ -496,8 +316,8 @@
     "total_msrp": "39101.0",
     "availability_date": null,
     "total_packages": 8,
-    "packages": "TRD Off-Road Package, Technology Package, Bed Lighting Kit  [installed_msrp], Black Out Package [installed_msrp], Mudguards [installed_msrp], All-Weather Floor Liners and Door Sill Protectors [installed_msrp], 50 State Emissions, LED Headlights and Fog Lights",
-    "created_at": "2021-09-20 11:28:29"
+    "packages": "50 State Emissions, LED Headlights and Fog Lights, Mudguards [installed_msrp], Bed Lighting Kit  [installed_msrp], TRD Off-Road Package, All-Weather Floor Liners and Door Sill Protectors [installed_msrp], Black Out Package [installed_msrp], Technology Package",
+    "created_at": "2021-09-21 11:28:28"
   },
   {
     "dealer": "48027",
@@ -516,28 +336,8 @@
     "total_msrp": "41468.0",
     "availability_date": null,
     "total_packages": 4,
-    "packages": "All-Weather Floor Liners & Door Sill Protectors[installed_msrp], SR5 Upgrade Package, Remote Tailgate Lock[installed_msrp], 50 State Emissions",
-    "created_at": "2021-09-20 11:28:29"
-  },
-  {
-    "dealer": "48027",
-    "vin": "5TFDY5F11MX039040",
-    "year": "2021",
-    "vehicle": "tundra",
-    "model": "SR5",
-    "enginge": "5.7L V8 Engine",
-    "transmission": "6-Speed automatic transmission",
-    "drivetrain": "4WD",
-    "cab": "CrewMax",
-    "bed": "5.5-ft. Short Bed",
-    "color": "Silver Sky Metallic",
-    "interior": "Graphite Fabric",
-    "base_msrp": "41370",
-    "total_msrp": "46517.0",
-    "availability_date": null,
-    "total_packages": 7,
-    "packages": "Spray-On Bedliner[installed_msrp], 18-in. 5-spoke alloy wheels with P275/65R18 tires, 50 State Emissions, Brushed Stainless Steel Stepboards[installed_msrp], Exhaust Tip - Chrome[installed_msrp], Convenience Extra Value Package, All-Weather Floor Liners & Door Sill Protectors[installed_msrp]",
-    "created_at": "2021-09-20 11:28:29"
+    "packages": "SR5 Upgrade Package, All-Weather Floor Liners & Door Sill Protectors[installed_msrp], Remote Tailgate Lock[installed_msrp], 50 State Emissions",
+    "created_at": "2021-09-21 11:28:28"
   },
   {
     "dealer": "48027",
@@ -556,8 +356,48 @@
     "total_msrp": "47768.0",
     "availability_date": null,
     "total_packages": 5,
-    "packages": "TRD Off-Road Package (SR5 Grade) [off_roading_generic], SR5 Upgrade Package, Spray-On Bedliner[installed_msrp], 50 State Emissions, All-Weather Floor Liners & Door Sill Protectors[installed_msrp]",
-    "created_at": "2021-09-20 11:28:29"
+    "packages": "TRD Off-Road Package (SR5 Grade) [off_roading_generic], 50 State Emissions, SR5 Upgrade Package, Spray-On Bedliner[installed_msrp], All-Weather Floor Liners & Door Sill Protectors[installed_msrp]",
+    "created_at": "2021-09-21 11:28:28"
+  },
+  {
+    "dealer": "48027",
+    "vin": "5TFCZ5AN7MX281575",
+    "year": "2021",
+    "vehicle": "tacoma",
+    "model": "trdpro",
+    "enginge": "3.5L V6 Engine",
+    "transmission": "6-Speed Automatic Transmission",
+    "drivetrain": "4WD",
+    "cab": "Double Cab",
+    "bed": "5-ft. Bed",
+    "color": "Midnight Black Metallic",
+    "interior": "TRD Pro Leather In Black with Red Accent Stitching",
+    "base_msrp": "47030",
+    "total_msrp": "48374.0",
+    "availability_date": null,
+    "total_packages": 3,
+    "packages": "Mudguards [installed_msrp], 50 State Emissions, TRD PRO Package",
+    "created_at": "2021-09-21 11:28:28"
+  },
+  {
+    "dealer": "48027",
+    "vin": "5TFHY5F19MX040485",
+    "year": "2021",
+    "vehicle": "tundra",
+    "model": "limited",
+    "enginge": "5.7L V8 Engine",
+    "transmission": "6-Speed automatic transmission",
+    "drivetrain": "4WD",
+    "cab": "CrewMax",
+    "bed": "5.5-ft. Short Bed",
+    "color": "Super White",
+    "interior": "Black Leather",
+    "base_msrp": "47655",
+    "total_msrp": "52798.0",
+    "availability_date": null,
+    "total_packages": 7,
+    "packages": "Spray-On Bedliner[installed_msrp], Limited Premium Package, Power tilt/slide moonroof with sliding sunshade, 50 State Emissions, TRD Off-Road Package (Limited Grade) [off_roading_generic], Brushed Stainless Steel Stepboards[installed_msrp], All-Weather Floor Liners & Door Sill Protectors[installed_msrp]",
+    "created_at": "2021-09-21 11:28:28"
   },
   {
     "dealer": "48027",
@@ -576,8 +416,8 @@
     "total_msrp": "53315.0",
     "availability_date": null,
     "total_packages": 11,
-    "packages": "50 State Emissions, Power tilt/slide moonroof with sliding sunshade, All-Weather Floor Liners & Door Sill Protectors[installed_msrp], Exhaust Tip - Chrome[installed_msrp], Spray-On Bedliner[installed_msrp], Remote Tailgate Lock[installed_msrp], Door Edge Guards [installed_msrp], Tube Steps - Chrome[installed_msrp], TRD Off-Road Package (Limited Grade) [off_roading_generic], Tailgate Insert Badge - Chrome[installed_msrp], Limited Premium Package",
-    "created_at": "2021-09-20 11:28:29"
+    "packages": "Door Edge Guards [installed_msrp], 50 State Emissions, Exhaust Tip - Chrome[installed_msrp], All-Weather Floor Liners & Door Sill Protectors[installed_msrp], Tailgate Insert Badge - Chrome[installed_msrp], Remote Tailgate Lock[installed_msrp], Limited Premium Package, Power tilt/slide moonroof with sliding sunshade, Spray-On Bedliner[installed_msrp], Tube Steps - Chrome[installed_msrp], TRD Off-Road Package (Limited Grade) [off_roading_generic]",
+    "created_at": "2021-09-21 11:28:28"
   },
   {
     "dealer": "48027",
@@ -596,8 +436,8 @@
     "total_msrp": "54362.0",
     "availability_date": null,
     "total_packages": 9,
-    "packages": "Tonneau Cover[installed_msrp], TRD Off-Road Package (Limited Grade) [off_roading_generic], Remote Tailgate Lock[installed_msrp], All-Weather Floor Liners & Door Sill Protectors[installed_msrp], 50 State Emissions, Spray-On Bedliner[installed_msrp], Brushed Stainless Steel Stepboards[installed_msrp], Limited Premium Package, Power tilt/slide moonroof with sliding sunshade",
-    "created_at": "2021-09-20 11:28:29"
+    "packages": "All-Weather Floor Liners & Door Sill Protectors[installed_msrp], TRD Off-Road Package (Limited Grade) [off_roading_generic], Spray-On Bedliner[installed_msrp], Power tilt/slide moonroof with sliding sunshade, Remote Tailgate Lock[installed_msrp], 50 State Emissions, Limited Premium Package, Brushed Stainless Steel Stepboards[installed_msrp], Tonneau Cover[installed_msrp]",
+    "created_at": "2021-09-21 11:28:28"
   },
   {
     "dealer": "48027",
@@ -616,7 +456,7 @@
     "total_msrp": "56969.0",
     "availability_date": null,
     "total_packages": 4,
-    "packages": "50 State Emissions, TRD PRO Package, Tonneau Cover[installed_msrp], Spray-On Bedliner[installed_msrp]",
-    "created_at": "2021-09-20 11:28:29"
+    "packages": "Spray-On Bedliner[installed_msrp], 50 State Emissions, Tonneau Cover[installed_msrp], TRD PRO Package",
+    "created_at": "2021-09-21 11:28:28"
   }
 ]
