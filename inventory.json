@@ -16,8 +16,8 @@
     "total_msrp": "39554.0",
     "availability_date": null,
     "total_packages": 5,
-    "packages": "Center Console Tray[installed_msrp], Remote Tailgate Lock[installed_msrp], 50 State Emissions, Audio Plus, SX Package (Double Cab)",
-    "created_at": "2021-10-11 11:28:35"
+    "packages": "50 State Emissions, SX Package (Double Cab), Remote Tailgate Lock[installed_msrp], Center Console Tray[installed_msrp], Audio Plus",
+    "created_at": "2021-10-12 11:28:43"
   },
   {
     "dealer": "02036",
@@ -36,8 +36,8 @@
     "total_msrp": "39654.0",
     "availability_date": null,
     "total_packages": 5,
-    "packages": "SX Package (Double Cab), 50 State Emissions, Center Console Tray[installed_msrp], Remote Tailgate Lock[installed_msrp], Audio Plus",
-    "created_at": "2021-10-11 11:28:35"
+    "packages": "Remote Tailgate Lock[installed_msrp], 50 State Emissions, Center Console Tray[installed_msrp], Audio Plus, SX Package (Double Cab)",
+    "created_at": "2021-10-12 11:28:43"
   },
   {
     "dealer": "02036",
@@ -56,48 +56,28 @@
     "total_msrp": "41068.0",
     "availability_date": null,
     "total_packages": 5,
-    "packages": "Remote Tailgate Lock[installed_msrp], All-Weather Floor Liners & Door Sill Protectors[installed_msrp], Audio Plus, SR5 Package, 50 State Emissions",
-    "created_at": "2021-10-11 11:28:35"
+    "packages": "All-Weather Floor Liners & Door Sill Protectors[installed_msrp], 50 State Emissions, Remote Tailgate Lock[installed_msrp], Audio Plus, SR5 Package",
+    "created_at": "2021-10-12 11:28:43"
   },
   {
     "dealer": "02036",
-    "vin": "5TFEY5F13MX298407",
+    "vin": "5TFDY5F19MX047371",
     "year": "2021",
     "vehicle": "tundra",
     "model": "SR5",
     "enginge": "5.7L V8 Engine",
     "transmission": "6-Speed automatic transmission",
-    "drivetrain": "2WD",
-    "cab": "CrewMax",
-    "bed": "5.5-ft. Short Bed",
-    "color": "Midnight Black Metallic",
-    "interior": "Black Fabric",
-    "base_msrp": "38420",
-    "total_msrp": "42494.0",
-    "availability_date": null,
-    "total_packages": 6,
-    "packages": "Convenience Extra Value Package, Remote Tailgate Lock[installed_msrp], Deck rail system with four adjustable tie-down cleats, 50 State Emissions, Spare Tire Lock[installed_msrp], 18-in. 5-spoke alloy wheels with P275/65R18 tires",
-    "created_at": "2021-10-11 11:28:35"
-  },
-  {
-    "dealer": "02036",
-    "vin": "5TFEY5F12MX298995",
-    "year": "2021",
-    "vehicle": "tundra",
-    "model": "SR5",
-    "enginge": "5.7L V8 Engine",
-    "transmission": "6-Speed automatic transmission",
-    "drivetrain": "2WD",
+    "drivetrain": "4WD",
     "cab": "CrewMax",
     "bed": "5.5-ft. Short Bed",
     "color": "Super White",
-    "interior": "Graphite Fabric",
-    "base_msrp": "38420",
-    "total_msrp": "42494.0",
+    "interior": "Black Fabric",
+    "base_msrp": "41470",
+    "total_msrp": "48189.0",
     "availability_date": null,
-    "total_packages": 6,
-    "packages": "18-in. 5-spoke alloy wheels with P275/65R18 tires, 50 State Emissions, Remote Tailgate Lock[installed_msrp], Deck rail system with four adjustable tie-down cleats, Convenience Extra Value Package, Spare Tire Lock[installed_msrp]",
-    "created_at": "2021-10-11 11:28:35"
+    "total_packages": 5,
+    "packages": "50 State Emissions, Premium Convenience Extra Value Package, Deck rail system with four adjustable tie-down cleats, Trail Special Edition, Remote Tailgate Lock[installed_msrp]",
+    "created_at": "2021-10-12 11:28:43"
   },
   {
     "dealer": "48066",
@@ -116,28 +96,8 @@
     "total_msrp": "46256.0",
     "availability_date": null,
     "total_packages": 6,
-    "packages": "All-Weather Floor Liners & Door Sill Protectors[installed_msrp], 50 State Emissions, Black Out Package, Spray-On Bedliner[installed_msrp], 18-in. 5-spoke alloy wheels with P275/65R18 tires, Convenience Extra Value Package",
-    "created_at": "2021-10-11 11:28:35"
-  },
-  {
-    "dealer": "48027",
-    "vin": "5TFUY5F10MX044973",
-    "year": "2021",
-    "vehicle": "tundra",
-    "model": "SR5",
-    "enginge": "5.7L V8 Engine",
-    "transmission": "6-Speed automatic transmission",
-    "drivetrain": "4WD",
-    "cab": "Double Cab",
-    "bed": "6.5-ft. Standard Bed",
-    "color": "Magnetic Gray Metallic",
-    "interior": "Graphite Fabric",
-    "base_msrp": "38865",
-    "total_msrp": "40799.0",
-    "availability_date": null,
-    "total_packages": 5,
-    "packages": "Preferred Owner's Portfolio, 50 State Emissions, Audio Plus, All-Weather Floor Liners & Door Sill Protectors[installed_msrp], SR5 Package",
-    "created_at": "2021-10-11 11:28:35"
+    "packages": "50 State Emissions, All-Weather Floor Liners & Door Sill Protectors[installed_msrp], Black Out Package, 18-in. 5-spoke alloy wheels with P275/65R18 tires, Spray-On Bedliner[installed_msrp], Convenience Extra Value Package",
+    "created_at": "2021-10-12 11:28:43"
   },
   {
     "dealer": "48027",
@@ -156,27 +116,7 @@
     "total_msrp": "42709.0",
     "availability_date": null,
     "total_packages": 7,
-    "packages": "SR5 Package, Preferred Owner's Portfolio, All-Weather Floor Liners & Door Sill Protectors[installed_msrp], Convenience Extra Value Package, Audio Plus, 18-in. 5-spoke alloy wheels with P275/65R18 tires, 50 State Emissions",
-    "created_at": "2021-10-11 11:28:35"
-  },
-  {
-    "dealer": "48027",
-    "vin": "JTERU5JR0M5965306",
-    "year": "2021",
-    "vehicle": "4runner",
-    "model": "trdoffroadpremium",
-    "enginge": "4.0L V6 Engine",
-    "transmission": "5-Speed Automatic Transmission",
-    "drivetrain": "Part-time 4WD",
-    "cab": null,
-    "bed": null,
-    "color": "Super White",
-    "interior": "TRD Off-Road SofTex® in Black",
-    "base_msrp": "43325",
-    "total_msrp": "47162.0",
-    "availability_date": null,
-    "total_packages": 12,
-    "packages": "All-Weather Floor Liners [parts_only_msrp], Off Road Premium Package w/ Softex, Blackout Emblem Overlays [installed_msrp], Predator Tube Step [installed_msrp], Roof Rack Cross Bars [installed_msrp], High Performance LED Fog Lights (Black) [parts_only_msrp], 50 State Emissions, Off Road Package, Keep It Wild Savings [keep_it_wild_21], Ball Mount  [installed_msrp], TRD 17-In. Matte Black Alloy Wheel [installed_msrp], Moonroof",
-    "created_at": "2021-10-11 11:28:35"
+    "packages": "Convenience Extra Value Package, 18-in. 5-spoke alloy wheels with P275/65R18 tires, Audio Plus, All-Weather Floor Liners & Door Sill Protectors[installed_msrp], SR5 Package, Preferred Owner's Portfolio, 50 State Emissions",
+    "created_at": "2021-10-12 11:28:43"
   }
 ]
