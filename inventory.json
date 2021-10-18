@@ -16,28 +16,8 @@
     "total_msrp": "39554.0",
     "availability_date": null,
     "total_packages": 5,
-    "packages": "Remote Tailgate Lock[installed_msrp], SX Package (Double Cab), Center Console Tray[installed_msrp], 50 State Emissions, Audio Plus",
-    "created_at": "2021-10-17 11:28:25"
-  },
-  {
-    "dealer": "02036",
-    "vin": "5TFRY5F16MX298743",
-    "year": "2021",
-    "vehicle": "tundra",
-    "model": "SR5",
-    "enginge": "5.7L V8 Engine",
-    "transmission": "6-Speed automatic transmission",
-    "drivetrain": "2WD",
-    "cab": "Double Cab",
-    "bed": "6.5-ft. Standard Bed",
-    "color": "Barcelona Red Metallic",
-    "interior": "Graphite Fabric",
-    "base_msrp": "35815",
-    "total_msrp": "39654.0",
-    "availability_date": null,
-    "total_packages": 5,
-    "packages": "Audio Plus, SX Package (Double Cab), 50 State Emissions, Center Console Tray[installed_msrp], Remote Tailgate Lock[installed_msrp]",
-    "created_at": "2021-10-17 11:28:25"
+    "packages": "Center Console Tray[installed_msrp], 50 State Emissions, SX Package (Double Cab), Audio Plus, Remote Tailgate Lock[installed_msrp]",
+    "created_at": "2021-10-18 11:28:57"
   },
   {
     "dealer": "02036",
@@ -56,8 +36,28 @@
     "total_msrp": "39654.0",
     "availability_date": null,
     "total_packages": 5,
-    "packages": "Audio Plus, SX Package (Double Cab), 50 State Emissions, Remote Tailgate Lock[installed_msrp], Center Console Tray[installed_msrp]",
-    "created_at": "2021-10-17 11:28:25"
+    "packages": "SX Package (Double Cab), 50 State Emissions, Remote Tailgate Lock[installed_msrp], Center Console Tray[installed_msrp], Audio Plus",
+    "created_at": "2021-10-18 11:28:57"
+  },
+  {
+    "dealer": "02036",
+    "vin": "5TFRY5F16MX298743",
+    "year": "2021",
+    "vehicle": "tundra",
+    "model": "SR5",
+    "enginge": "5.7L V8 Engine",
+    "transmission": "6-Speed automatic transmission",
+    "drivetrain": "2WD",
+    "cab": "Double Cab",
+    "bed": "6.5-ft. Standard Bed",
+    "color": "Barcelona Red Metallic",
+    "interior": "Graphite Fabric",
+    "base_msrp": "35815",
+    "total_msrp": "39654.0",
+    "availability_date": null,
+    "total_packages": 5,
+    "packages": "Audio Plus, 50 State Emissions, Remote Tailgate Lock[installed_msrp], SX Package (Double Cab), Center Console Tray[installed_msrp]",
+    "created_at": "2021-10-18 11:28:57"
   },
   {
     "dealer": "02036",
@@ -76,8 +76,8 @@
     "total_msrp": "40829.0",
     "availability_date": null,
     "total_packages": 4,
-    "packages": "Audio Plus, Remote Tailgate Lock[installed_msrp], 50 State Emissions, SR5 Package",
-    "created_at": "2021-10-17 11:28:25"
+    "packages": "Remote Tailgate Lock[installed_msrp], Audio Plus, 50 State Emissions, SR5 Package",
+    "created_at": "2021-10-18 11:28:57"
   },
   {
     "dealer": "02036",
@@ -96,8 +96,8 @@
     "total_msrp": "41068.0",
     "availability_date": null,
     "total_packages": 5,
-    "packages": "Audio Plus, 50 State Emissions, SR5 Package, All-Weather Floor Liners & Door Sill Protectors[installed_msrp], Remote Tailgate Lock[installed_msrp]",
-    "created_at": "2021-10-17 11:28:25"
+    "packages": "Remote Tailgate Lock[installed_msrp], 50 State Emissions, All-Weather Floor Liners & Door Sill Protectors[installed_msrp], Audio Plus, SR5 Package",
+    "created_at": "2021-10-18 11:28:57"
   },
   {
     "dealer": "02036",
@@ -117,7 +117,7 @@
     "availability_date": null,
     "total_packages": 2,
     "packages": "Remote Tailgate Lock[installed_msrp], 50 State Emissions",
-    "created_at": "2021-10-17 11:28:25"
+    "created_at": "2021-10-18 11:28:57"
   },
   {
     "dealer": "02036",
@@ -137,7 +137,7 @@
     "availability_date": null,
     "total_packages": 2,
     "packages": "50 State Emissions, Remote Tailgate Lock[installed_msrp]",
-    "created_at": "2021-10-17 11:28:25"
+    "created_at": "2021-10-18 11:28:57"
   },
   {
     "dealer": "02036",
@@ -156,8 +156,8 @@
     "total_msrp": "46417.0",
     "availability_date": null,
     "total_packages": 10,
-    "packages": "TRD Off-Road Package (SR5 Grade) [off_roading_generic], Preferred Owner's Portfolio, Remote Tailgate Lock[installed_msrp], Spare Tire Lock[installed_msrp], Deck rail system with four adjustable tie-down cleats, SR5 Upgrade Package, Audio Plus High, All-Weather Floor Liners & Door Sill Protectors[installed_msrp], Spray-On Bedliner[installed_msrp], 50 State Emissions",
-    "created_at": "2021-10-17 11:28:25"
+    "packages": "Spare Tire Lock[installed_msrp], All-Weather Floor Liners & Door Sill Protectors[installed_msrp], 50 State Emissions, Remote Tailgate Lock[installed_msrp], Audio Plus High, Preferred Owner's Portfolio, Deck rail system with four adjustable tie-down cleats, Spray-On Bedliner[installed_msrp], TRD Off-Road Package (SR5 Grade) [off_roading_generic], SR5 Upgrade Package",
+    "created_at": "2021-10-18 11:28:57"
   },
   {
     "dealer": "02036",
@@ -176,8 +176,8 @@
     "total_msrp": "48938.0",
     "availability_date": null,
     "total_packages": 6,
-    "packages": "Premium Convenience Extra Value Package, Remote Tailgate Lock[installed_msrp], Trail Special Edition, 50 State Emissions, Predator Steps [installed_msrp], Deck rail system with four adjustable tie-down cleats",
-    "created_at": "2021-10-17 11:28:25"
+    "packages": "Deck rail system with four adjustable tie-down cleats, Predator Steps [installed_msrp], Remote Tailgate Lock[installed_msrp], Trail Special Edition, 50 State Emissions, Premium Convenience Extra Value Package",
+    "created_at": "2021-10-18 11:28:57"
   },
   {
     "dealer": "02036",
@@ -196,8 +196,8 @@
     "total_msrp": "49199.0",
     "availability_date": null,
     "total_packages": 7,
-    "packages": "Spare Tire Lock[installed_msrp], TRD Front Skid Plate [installed_msrp], 50 State Emissions, Remote Tailgate Lock[installed_msrp], TRD Off-Road Package (Limited Grade) [off_roading_generic], Center Console Tray[installed_msrp], Limited Premium Package",
-    "created_at": "2021-10-17 11:28:25"
+    "packages": "TRD Front Skid Plate [installed_msrp], Center Console Tray[installed_msrp], TRD Off-Road Package (Limited Grade) [off_roading_generic], Spare Tire Lock[installed_msrp], Remote Tailgate Lock[installed_msrp], 50 State Emissions, Limited Premium Package",
+    "created_at": "2021-10-18 11:28:57"
   },
   {
     "dealer": "02036",
@@ -216,8 +216,8 @@
     "total_msrp": "56572.0",
     "availability_date": null,
     "total_packages": 5,
-    "packages": "Remote Tailgate Lock[installed_msrp], TRD PRO Package, Predator Steps [installed_msrp], Console Safe[installed_msrp], 50 State Emissions",
-    "created_at": "2021-10-17 11:28:25"
+    "packages": "Predator Steps [installed_msrp], 50 State Emissions, TRD PRO Package, Remote Tailgate Lock[installed_msrp], Console Safe[installed_msrp]",
+    "created_at": "2021-10-18 11:28:57"
   },
   {
     "dealer": "48066",
@@ -236,8 +236,8 @@
     "total_msrp": "46256.0",
     "availability_date": null,
     "total_packages": 6,
-    "packages": "Black Out Package, 18-in. 5-spoke alloy wheels with P275/65R18 tires, All-Weather Floor Liners & Door Sill Protectors[installed_msrp], Spray-On Bedliner[installed_msrp], Convenience Extra Value Package, 50 State Emissions",
-    "created_at": "2021-10-17 11:28:25"
+    "packages": "Spray-On Bedliner[installed_msrp], Convenience Extra Value Package, Black Out Package, 18-in. 5-spoke alloy wheels with P275/65R18 tires, 50 State Emissions, All-Weather Floor Liners & Door Sill Protectors[installed_msrp]",
+    "created_at": "2021-10-18 11:28:58"
   },
   {
     "dealer": "48066",
@@ -256,8 +256,8 @@
     "total_msrp": "48231.0",
     "availability_date": null,
     "total_packages": 6,
-    "packages": "50 State Emissions, All-Weather Floor Liners & Door Sill Protectors[installed_msrp], SR5 Upgrade Package, Spray-On Bedliner[installed_msrp], TRD Off-Road Package (SR5 Grade) [off_roading_generic], Black Out Package",
-    "created_at": "2021-10-17 11:28:25"
+    "packages": "All-Weather Floor Liners & Door Sill Protectors[installed_msrp], Spray-On Bedliner[installed_msrp], SR5 Upgrade Package, 50 State Emissions, TRD Off-Road Package (SR5 Grade) [off_roading_generic], Black Out Package",
+    "created_at": "2021-10-18 11:28:58"
   },
   {
     "dealer": "48027",
@@ -277,7 +277,7 @@
     "availability_date": null,
     "total_packages": 3,
     "packages": "All-Weather Floor Liners and Door Sill Protectors [installed_msrp], 50 State Emissions, Preferred Owner's Portfolio",
-    "created_at": "2021-10-17 11:28:26"
+    "created_at": "2021-10-18 11:28:58"
   },
   {
     "dealer": "48027",
@@ -296,8 +296,8 @@
     "total_msrp": "42709.0",
     "availability_date": null,
     "total_packages": 7,
-    "packages": "18-in. 5-spoke alloy wheels with P275/65R18 tires, Audio Plus, All-Weather Floor Liners & Door Sill Protectors[installed_msrp], Convenience Extra Value Package, SR5 Package, Preferred Owner's Portfolio, 50 State Emissions",
-    "created_at": "2021-10-17 11:28:26"
+    "packages": "All-Weather Floor Liners & Door Sill Protectors[installed_msrp], Audio Plus, Convenience Extra Value Package, Preferred Owner's Portfolio, 18-in. 5-spoke alloy wheels with P275/65R18 tires, SR5 Package, 50 State Emissions",
+    "created_at": "2021-10-18 11:28:58"
   },
   {
     "dealer": "48027",
@@ -316,8 +316,8 @@
     "total_msrp": "47724.0",
     "availability_date": null,
     "total_packages": 14,
-    "packages": "LED Headlights and Fog Lights, Console Safe [installed_msrp], Technology Package, All-Weather Floor Liners and Door Sill Protectors [installed_msrp], Mudguards [installed_msrp], Preferred Owner's Portfolio, Roof Rack [installed_msrp], BedStep<sup>®</sup> [installed_msrp], Bed Mat [installed_msrp], Cast Aluminum Running Boards [installed_msrp], Remote Tailgate Lock  [parts_only_msrp], 50 State Emissions, Tonneau Cover, TRD Premium Sport Package (Double Cab A/T)",
-    "created_at": "2021-10-17 11:28:26"
+    "packages": "Bed Mat [installed_msrp], All-Weather Floor Liners and Door Sill Protectors [installed_msrp], 50 State Emissions, Mudguards [installed_msrp], Technology Package, Preferred Owner's Portfolio, Roof Rack [installed_msrp], TRD Premium Sport Package (Double Cab A/T), BedStep<sup>®</sup> [installed_msrp], Remote Tailgate Lock  [parts_only_msrp], Tonneau Cover, Console Safe [installed_msrp], Cast Aluminum Running Boards [installed_msrp], LED Headlights and Fog Lights",
+    "created_at": "2021-10-18 11:28:58"
   },
   {
     "dealer": "48027",
@@ -336,7 +336,7 @@
     "total_msrp": "49038.0",
     "availability_date": null,
     "total_packages": 5,
-    "packages": "All-Weather Floor Liners & Door Sill Protectors[installed_msrp], Limited Premium Package, 50 State Emissions, TRD Off-Road Package (Limited Grade) [off_roading_generic], Spray-On Bedliner[installed_msrp]",
-    "created_at": "2021-10-17 11:28:26"
+    "packages": "All-Weather Floor Liners & Door Sill Protectors[installed_msrp], 50 State Emissions, TRD Off-Road Package (Limited Grade) [off_roading_generic], Spray-On Bedliner[installed_msrp], Limited Premium Package",
+    "created_at": "2021-10-18 11:28:58"
   }
 ]
