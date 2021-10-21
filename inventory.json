@@ -17,7 +17,7 @@
     "availability_date": null,
     "total_packages": 5,
     "packages": "SX Package (Double Cab), Center Console Tray[installed_msrp], 50 State Emissions, Audio Plus, Remote Tailgate Lock[installed_msrp]",
-    "created_at": "2021-10-20 11:28:49"
+    "created_at": "2021-10-21 11:29:04"
   },
   {
     "dealer": "02036",
@@ -37,7 +37,7 @@
     "availability_date": null,
     "total_packages": 5,
     "packages": "All-Weather Floor Liners & Door Sill Protectors[installed_msrp], SR5 Package, Audio Plus, 50 State Emissions, Remote Tailgate Lock[installed_msrp]",
-    "created_at": "2021-10-20 11:28:49"
+    "created_at": "2021-10-21 11:29:04"
   },
   {
     "dealer": "02036",
@@ -57,7 +57,7 @@
     "availability_date": null,
     "total_packages": 10,
     "packages": "All-Weather Floor Liners & Door Sill Protectors[installed_msrp], Spray-On Bedliner[installed_msrp], Deck rail system with four adjustable tie-down cleats, Preferred Owner's Portfolio, SR5 Upgrade Package, 50 State Emissions, Spare Tire Lock[installed_msrp], Remote Tailgate Lock[installed_msrp], TRD Off-Road Package (SR5 Grade) [off_roading_generic], Audio Plus High",
-    "created_at": "2021-10-20 11:28:49"
+    "created_at": "2021-10-21 11:29:04"
   },
   {
     "dealer": "02036",
@@ -77,27 +77,7 @@
     "availability_date": null,
     "total_packages": 7,
     "packages": "Spare Tire Lock[installed_msrp], 50 State Emissions, Remote Tailgate Lock[installed_msrp], Limited Premium Package, TRD Front Skid Plate [installed_msrp], TRD Off-Road Package (Limited Grade) [off_roading_generic], Center Console Tray[installed_msrp]",
-    "created_at": "2021-10-20 11:28:49"
-  },
-  {
-    "dealer": "48066",
-    "vin": "5TFDY5F15MX046640",
-    "year": "2021",
-    "vehicle": "tundra",
-    "model": "SR5",
-    "enginge": "5.7L V8 Engine",
-    "transmission": "6-Speed automatic transmission",
-    "drivetrain": "4WD",
-    "cab": "CrewMax",
-    "bed": "5.5-ft. Short Bed",
-    "color": "Barcelona Red Metallic",
-    "interior": "Black Fabric",
-    "base_msrp": "41470",
-    "total_msrp": "48231.0",
-    "availability_date": null,
-    "total_packages": 6,
-    "packages": "Spray-On Bedliner[installed_msrp], SR5 Upgrade Package, TRD Off-Road Package (SR5 Grade) [off_roading_generic], All-Weather Floor Liners & Door Sill Protectors[installed_msrp], 50 State Emissions, Black Out Package",
-    "created_at": "2021-10-20 11:28:49"
+    "created_at": "2021-10-21 11:29:04"
   },
   {
     "dealer": "48027",
@@ -117,6 +97,6 @@
     "availability_date": null,
     "total_packages": 7,
     "packages": "SR5 Package, 18-in. 5-spoke alloy wheels with P275/65R18 tires, Convenience Extra Value Package, All-Weather Floor Liners & Door Sill Protectors[installed_msrp], 50 State Emissions, Preferred Owner's Portfolio, Audio Plus",
-    "created_at": "2021-10-20 11:28:50"
+    "created_at": "2021-10-21 11:29:05"
   }
 ]
