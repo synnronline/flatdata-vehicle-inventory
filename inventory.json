@@ -16,8 +16,8 @@
     "total_msrp": "39244.0",
     "availability_date": null,
     "total_packages": 4,
-    "packages": "Heated Power Outside Tow Mirrors, Remote Tailgate Lock[installed_msrp], SR Work Truck Package, 50 State Emissions",
-    "created_at": "2021-10-23 11:28:41"
+    "packages": "50 State Emissions, Remote Tailgate Lock[installed_msrp], SR Work Truck Package, Heated Power Outside Tow Mirrors",
+    "created_at": "2021-10-24 11:28:29"
   },
   {
     "dealer": "02036",
@@ -36,8 +36,28 @@
     "total_msrp": "39654.0",
     "availability_date": null,
     "total_packages": 5,
-    "packages": "Audio Plus, Remote Tailgate Lock[installed_msrp], SX Package (Double Cab), 50 State Emissions, Center Console Tray[installed_msrp]",
-    "created_at": "2021-10-23 11:28:41"
+    "packages": "Center Console Tray[installed_msrp], SX Package (Double Cab), Audio Plus, 50 State Emissions, Remote Tailgate Lock[installed_msrp]",
+    "created_at": "2021-10-24 11:28:29"
+  },
+  {
+    "dealer": "02036",
+    "vin": "3TMCZ5AN8MM452632",
+    "year": "2021",
+    "vehicle": "tacoma",
+    "model": "trdoffroad",
+    "enginge": "3.5L V6 Engine",
+    "transmission": "6-Speed Automatic Transmission",
+    "drivetrain": "4WD",
+    "cab": "Double Cab",
+    "bed": "5-ft. Bed",
+    "color": "Barcelona Red Metallic",
+    "interior": "TRD Off-Road Fabric In Cement/Black",
+    "base_msrp": "37530",
+    "total_msrp": "40857.0",
+    "availability_date": null,
+    "total_packages": 8,
+    "packages": "50 State Emissions, TRD Off-Road Package, Predator Tube Steps [installed_msrp], LED Daytime Running Lights and Fog Lights, Black Out Package [installed_msrp], Entune Audio Plus, Technology Package, All-Weather Floor Liners and Door Sill Protectors [installed_msrp]",
+    "created_at": "2021-10-24 11:28:29"
   },
   {
     "dealer": "02036",
@@ -56,8 +76,8 @@
     "total_msrp": "41068.0",
     "availability_date": null,
     "total_packages": 5,
-    "packages": "Audio Plus, All-Weather Floor Liners & Door Sill Protectors[installed_msrp], SR5 Package, Remote Tailgate Lock[installed_msrp], 50 State Emissions",
-    "created_at": "2021-10-23 11:28:41"
+    "packages": "50 State Emissions, All-Weather Floor Liners & Door Sill Protectors[installed_msrp], Audio Plus, SR5 Package, Remote Tailgate Lock[installed_msrp]",
+    "created_at": "2021-10-24 11:28:29"
   },
   {
     "dealer": "02036",
@@ -76,8 +96,8 @@
     "total_msrp": "46417.0",
     "availability_date": null,
     "total_packages": 10,
-    "packages": "Remote Tailgate Lock[installed_msrp], Preferred Owner's Portfolio, Spray-On Bedliner[installed_msrp], Deck rail system with four adjustable tie-down cleats, TRD Off-Road Package (SR5 Grade) [off_roading_generic], Audio Plus High, SR5 Upgrade Package, All-Weather Floor Liners & Door Sill Protectors[installed_msrp], Spare Tire Lock[installed_msrp], 50 State Emissions",
-    "created_at": "2021-10-23 11:28:41"
+    "packages": "All-Weather Floor Liners & Door Sill Protectors[installed_msrp], SR5 Upgrade Package, TRD Off-Road Package (SR5 Grade) [off_roading_generic], Spray-On Bedliner[installed_msrp], Preferred Owner's Portfolio, 50 State Emissions, Remote Tailgate Lock[installed_msrp], Deck rail system with four adjustable tie-down cleats, Spare Tire Lock[installed_msrp], Audio Plus High",
+    "created_at": "2021-10-24 11:28:29"
   },
   {
     "dealer": "02036",
@@ -96,8 +116,8 @@
     "total_msrp": "56522.0",
     "availability_date": null,
     "total_packages": 7,
-    "packages": "1794 Grade Package, 50 State Emissions, Power tilt/slide moonroof with sliding sunshade, Predator Steps [installed_msrp], Spray-On Bedliner[installed_msrp], TRD Off-Road Package (Limited Grade) [off_roading_generic], Tailgate Insert Badge - Black[installed_msrp]",
-    "created_at": "2021-10-23 11:28:41"
+    "packages": "50 State Emissions, TRD Off-Road Package (Limited Grade) [off_roading_generic], Tailgate Insert Badge - Black[installed_msrp], Spray-On Bedliner[installed_msrp], 1794 Grade Package, Power tilt/slide moonroof with sliding sunshade, Predator Steps [installed_msrp]",
+    "created_at": "2021-10-24 11:28:29"
   },
   {
     "dealer": "02036",
@@ -116,8 +136,8 @@
     "total_msrp": "57917.0",
     "availability_date": null,
     "total_packages": 6,
-    "packages": "Predator Steps [installed_msrp], Spray-On Bedliner[installed_msrp], TRD PRO Package, Tonneau Cover[installed_msrp], 50 State Emissions, Tailgate Insert Badge - Black[installed_msrp]",
-    "created_at": "2021-10-23 11:28:41"
+    "packages": "TRD PRO Package, Spray-On Bedliner[installed_msrp], Tailgate Insert Badge - Black[installed_msrp], Predator Steps [installed_msrp], 50 State Emissions, Tonneau Cover[installed_msrp]",
+    "created_at": "2021-10-24 11:28:29"
   },
   {
     "dealer": "02036",
@@ -136,8 +156,8 @@
     "total_msrp": "57917.0",
     "availability_date": null,
     "total_packages": 6,
-    "packages": "Tailgate Insert Badge - Black[installed_msrp], 50 State Emissions, Predator Steps [installed_msrp], Tonneau Cover[installed_msrp], Spray-On Bedliner[installed_msrp], TRD PRO Package",
-    "created_at": "2021-10-23 11:28:41"
+    "packages": "Predator Steps [installed_msrp], Tonneau Cover[installed_msrp], 50 State Emissions, TRD PRO Package, Tailgate Insert Badge - Black[installed_msrp], Spray-On Bedliner[installed_msrp]",
+    "created_at": "2021-10-24 11:28:29"
   },
   {
     "dealer": "48027",
@@ -156,7 +176,7 @@
     "total_msrp": "40314.0",
     "availability_date": null,
     "total_packages": 11,
-    "packages": "Remote Tailgate Lock  [parts_only_msrp], Mudguards [installed_msrp], LED Daytime Running Lights and Fog Lights, Black Out Package [installed_msrp], All-Weather Floor Liners and Door Sill Protectors [installed_msrp], Console Safe [installed_msrp], 50 State Emissions, TRD Sport Extra Value Package, Entune Audio Plus, Power Color Turn Mirror, Bed Lighting Kit  [installed_msrp]",
-    "created_at": "2021-10-23 11:28:42"
+    "packages": "Black Out Package [installed_msrp], 50 State Emissions, Remote Tailgate Lock  [parts_only_msrp], LED Daytime Running Lights and Fog Lights, Bed Lighting Kit  [installed_msrp], Entune Audio Plus, All-Weather Floor Liners and Door Sill Protectors [installed_msrp], Mudguards [installed_msrp], Console Safe [installed_msrp], TRD Sport Extra Value Package, Power Color Turn Mirror",
+    "created_at": "2021-10-24 11:28:29"
   }
 ]
