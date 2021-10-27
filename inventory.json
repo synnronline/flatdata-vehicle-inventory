@@ -16,8 +16,8 @@
     "total_msrp": "39244.0",
     "availability_date": null,
     "total_packages": 4,
-    "packages": "SR Work Truck Package, Remote Tailgate Lock[installed_msrp], Heated Power Outside Tow Mirrors, 50 State Emissions",
-    "created_at": "2021-10-26 11:29:10"
+    "packages": "50 State Emissions, Remote Tailgate Lock[installed_msrp], SR Work Truck Package, Heated Power Outside Tow Mirrors",
+    "created_at": "2021-10-27 11:29:19"
   },
   {
     "dealer": "02036",
@@ -36,8 +36,8 @@
     "total_msrp": "39654.0",
     "availability_date": null,
     "total_packages": 5,
-    "packages": "Audio Plus, 50 State Emissions, Remote Tailgate Lock[installed_msrp], SX Package (Double Cab), Center Console Tray[installed_msrp]",
-    "created_at": "2021-10-26 11:29:10"
+    "packages": "Audio Plus, Remote Tailgate Lock[installed_msrp], 50 State Emissions, Center Console Tray[installed_msrp], SX Package (Double Cab)",
+    "created_at": "2021-10-27 11:29:19"
   },
   {
     "dealer": "02036",
@@ -56,8 +56,8 @@
     "total_msrp": "40857.0",
     "availability_date": null,
     "total_packages": 8,
-    "packages": "TRD Off-Road Package, Technology Package, All-Weather Floor Liners and Door Sill Protectors [installed_msrp], Black Out Package [installed_msrp], 50 State Emissions, LED Daytime Running Lights and Fog Lights, Entune Audio Plus, Predator Tube Steps [installed_msrp]",
-    "created_at": "2021-10-26 11:29:10"
+    "packages": "Predator Tube Steps [installed_msrp], Black Out Package [installed_msrp], Technology Package, All-Weather Floor Liners and Door Sill Protectors [installed_msrp], TRD Off-Road Package, 50 State Emissions, Entune Audio Plus, LED Daytime Running Lights and Fog Lights",
+    "created_at": "2021-10-27 11:29:19"
   },
   {
     "dealer": "02036",
@@ -76,8 +76,8 @@
     "total_msrp": "41068.0",
     "availability_date": null,
     "total_packages": 5,
-    "packages": "All-Weather Floor Liners & Door Sill Protectors[installed_msrp], Audio Plus, SR5 Package, 50 State Emissions, Remote Tailgate Lock[installed_msrp]",
-    "created_at": "2021-10-26 11:29:10"
+    "packages": "50 State Emissions, All-Weather Floor Liners & Door Sill Protectors[installed_msrp], SR5 Package, Remote Tailgate Lock[installed_msrp], Audio Plus",
+    "created_at": "2021-10-27 11:29:19"
   },
   {
     "dealer": "02036",
@@ -96,8 +96,8 @@
     "total_msrp": "56522.0",
     "availability_date": null,
     "total_packages": 7,
-    "packages": "Predator Steps [installed_msrp], TRD Off-Road Package (Limited Grade) [off_roading_generic], 50 State Emissions, Tailgate Insert Badge - Black[installed_msrp], Spray-On Bedliner[installed_msrp], 1794 Grade Package, Power tilt/slide moonroof with sliding sunshade",
-    "created_at": "2021-10-26 11:29:10"
+    "packages": "Predator Steps [installed_msrp], Spray-On Bedliner[installed_msrp], 50 State Emissions, 1794 Grade Package, TRD Off-Road Package (Limited Grade) [off_roading_generic], Power tilt/slide moonroof with sliding sunshade, Tailgate Insert Badge - Black[installed_msrp]",
+    "created_at": "2021-10-27 11:29:19"
   },
   {
     "dealer": "48027",
@@ -116,7 +116,7 @@
     "total_msrp": "40314.0",
     "availability_date": null,
     "total_packages": 11,
-    "packages": "Bed Lighting Kit  [installed_msrp], Remote Tailgate Lock  [parts_only_msrp], Black Out Package [installed_msrp], All-Weather Floor Liners and Door Sill Protectors [installed_msrp], Console Safe [installed_msrp], 50 State Emissions, LED Daytime Running Lights and Fog Lights, Power Color Turn Mirror, Mudguards [installed_msrp], TRD Sport Extra Value Package, Entune Audio Plus",
-    "created_at": "2021-10-26 11:29:11"
+    "packages": "Bed Lighting Kit  [installed_msrp], Console Safe [installed_msrp], Power Color Turn Mirror, Remote Tailgate Lock  [parts_only_msrp], Mudguards [installed_msrp], TRD Sport Extra Value Package, LED Daytime Running Lights and Fog Lights, All-Weather Floor Liners and Door Sill Protectors [installed_msrp], Black Out Package [installed_msrp], 50 State Emissions, Entune Audio Plus",
+    "created_at": "2021-10-27 11:29:19"
   }
 ]
