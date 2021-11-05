@@ -16,8 +16,8 @@
     "total_msrp": "39654.0",
     "availability_date": null,
     "total_packages": 5,
-    "packages": "Audio Plus, Center Console Tray[installed_msrp], SX Package (Double Cab), Remote Tailgate Lock[installed_msrp], 50 State Emissions",
-    "created_at": "2021-11-04 11:29:15"
+    "packages": "50 State Emissions, Remote Tailgate Lock[installed_msrp], Audio Plus, SX Package (Double Cab), Center Console Tray[installed_msrp]",
+    "created_at": "2021-11-05 11:29:16"
   },
   {
     "dealer": "02036",
@@ -36,7 +36,7 @@
     "total_msrp": "41068.0",
     "availability_date": null,
     "total_packages": 5,
-    "packages": "50 State Emissions, Audio Plus, SR5 Package, Remote Tailgate Lock[installed_msrp], All-Weather Floor Liners & Door Sill Protectors[installed_msrp]",
-    "created_at": "2021-11-04 11:29:15"
+    "packages": "All-Weather Floor Liners & Door Sill Protectors[installed_msrp], 50 State Emissions, SR5 Package, Remote Tailgate Lock[installed_msrp], Audio Plus",
+    "created_at": "2021-11-05 11:29:16"
   }
 ]
