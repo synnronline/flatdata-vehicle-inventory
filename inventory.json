@@ -1,26 +1,6 @@
 [
   {
     "dealer": "02036",
-    "vin": "5TFUY5F13MX050007",
-    "year": "2021",
-    "vehicle": "tundra",
-    "model": "SR5",
-    "enginge": "5.7L V8 Engine",
-    "transmission": "6-Speed automatic transmission",
-    "drivetrain": "4WD",
-    "cab": "Double Cab",
-    "bed": "6.5-ft. Standard Bed",
-    "color": "Midnight Black Metallic",
-    "interior": "Graphite Fabric",
-    "base_msrp": "38865",
-    "total_msrp": "46149.0",
-    "availability_date": null,
-    "total_packages": 8,
-    "packages": "Remote Tailgate Lock[installed_msrp], Deck rail system with four adjustable tie-down cleats, Audio Plus High, SR5 Upgrade Package, Spare Tire Lock[installed_msrp], 50 State Emissions, TRD Off-Road Package (SR5 Grade) [off_roading_generic], TRD Front Skid Plate [installed_msrp]",
-    "created_at": "2021-11-18 11:29:15"
-  },
-  {
-    "dealer": "02036",
     "vin": "5TFUY5F12MX050273",
     "year": "2021",
     "vehicle": "tundra",
@@ -36,8 +16,8 @@
     "total_msrp": "47348.0",
     "availability_date": null,
     "total_packages": 9,
-    "packages": "TRD Off-Road Package (SR5 Grade) [off_roading_generic], TRD Performance Dual Exhaust System with Chrome Tips (Tailpipe Kit) [installed_msrp], Spare Tire Lock[installed_msrp], Deck rail system with four adjustable tie-down cleats, 50 State Emissions, TRD Front Skid Plate [installed_msrp], SR5 Upgrade Package, Remote Tailgate Lock[installed_msrp], Audio Plus High",
-    "created_at": "2021-11-18 11:29:15"
+    "packages": "TRD Front Skid Plate [installed_msrp], Remote Tailgate Lock[installed_msrp], Deck rail system with four adjustable tie-down cleats, 50 State Emissions, TRD Performance Dual Exhaust System with Chrome Tips (Tailpipe Kit) [installed_msrp], Audio Plus High, TRD Off-Road Package (SR5 Grade) [off_roading_generic], SR5 Upgrade Package, Spare Tire Lock[installed_msrp]",
+    "created_at": "2021-11-19 11:29:28"
   },
   {
     "dealer": "48066",
@@ -56,27 +36,7 @@
     "total_msrp": "49241.0",
     "availability_date": null,
     "total_packages": 7,
-    "packages": "Exhaust Tip - Black Chrome[installed_msrp], Spray-On Bedliner[installed_msrp], All-Weather Floor Liners & Door Sill Protectors[installed_msrp], Limited Premium Package, 50 State Emissions, TRD Off-Road Package (Limited Grade) [off_roading_generic], Tailgate Insert Badge - Black[installed_msrp]",
-    "created_at": "2021-11-18 11:29:16"
-  },
-  {
-    "dealer": "48066",
-    "vin": "5TFAY5F13MX043500",
-    "year": "2021",
-    "vehicle": "tundra",
-    "model": "platinum",
-    "enginge": "5.7L V8 Engine",
-    "transmission": "6-Speed automatic transmission",
-    "drivetrain": "4WD",
-    "cab": "CrewMax",
-    "bed": "5.5-ft. Short Bed",
-    "color": "Wind Chill Pearl [extra_cost_color]",
-    "interior": "Premium Black Leather",
-    "base_msrp": "52395",
-    "total_msrp": "56160.0",
-    "availability_date": null,
-    "total_packages": 4,
-    "packages": "Running Boards and Spray-on Bedliner, Power tilt/slide moonroof with sliding sunshade, Special Color, 50 State Emissions",
-    "created_at": "2021-11-18 11:29:16"
+    "packages": "Spray-On Bedliner[installed_msrp], TRD Off-Road Package (Limited Grade) [off_roading_generic], 50 State Emissions, Exhaust Tip - Black Chrome[installed_msrp], All-Weather Floor Liners & Door Sill Protectors[installed_msrp], Tailgate Insert Badge - Black[installed_msrp], Limited Premium Package",
+    "created_at": "2021-11-19 11:29:29"
   }
 ]
